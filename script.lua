@@ -120,7 +120,8 @@ local kits = {
 	shielder = "Infernal Shielder",
 	archer = "Archer",
 	farmer_cletus = "Farmer Cletus",
-	davey = "Pirate Davey"
+	davey = "Pirate Davey",
+	bigman = "Eldertree"
 }
 
 for i,v in pairs(kits) do
