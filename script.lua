@@ -121,7 +121,14 @@ local kits = {
 	archer = "Archer",
 	farmer_cletus = "Farmer Cletus",
 	davey = "Pirate Davey",
-	bigman = "Eldertree"
+	bigman = "Eldertree",
+	eldri = "Eldric",
+	Barb = "Barbarian",
+	Hepha = "Hephateus".
+	Cait = "Caitlyn",
+	Py = "pyro",
+	Zeph = "Zephyr",
+	
 }
 
 for i,v in pairs(kits) do
